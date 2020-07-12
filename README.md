@@ -1,16 +1,16 @@
-### Hi there 👋
+### Oi meu chapa
 
-<!--
-**kazordoon/kazordoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante de desenvolvimento web que começou os estudos no mundo da tecnologia no ínicio de 2019, e desde então venho aprendendo cada vez mais, aplicando algumas das coisas que aprendi em alguns projetos de pequeno porte.
 
-Here are some ideas to get you started:
+#### :computer: Atualmente eu estou estudando as seguintes tecnologias:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript  
+![JavaScript](https://raw.githubusercontent.com/kazordoon/kazordoon/master/images/javascript.png)
+- TypeScript  
+![TypeScript](https://raw.githubusercontent.com/kazordoon/kazordoon/master/images/typescript.png)
+- Node.js  
+![Node.js](https://raw.githubusercontent.com/kazordoon/kazordoon/master/images/nodejs.png)
+- PHP  
+![PHP](https://raw.githubusercontent.com/kazordoon/kazordoon/master/images/php.png)
+- Vue.js  
+![Vue.js](https://raw.githubusercontent.com/kazordoon/kazordoon/master/images/vuejs.png)
