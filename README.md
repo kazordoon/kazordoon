@@ -1,6 +1,6 @@
 ### Oi meu chapa
 
-Sou um estudante de desenvolvimento web que começou os estudos no mundo da tecnologia no ínicio de 2019, e desde então venho aprendendo cada vez mais, aplicando algumas das coisas que aprendi em alguns projetos de pequeno porte.
+Sou um estudante de desenvolvimento web que começou os estudos no mundo da tecnologia no ínicio de 2019, e desde então venho aplicando meu aprendizado na criação de alguns projetos e os disponibilizando em meus repositórios do GitHub.
 
 #### :computer: Atualmente eu estou estudando as seguintes tecnologias:
 
