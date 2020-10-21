@@ -17,4 +17,4 @@ _ _ _
 
 ![kazordoon's github stats](https://github-readme-stats.vercel.app/api?username=kazordoon&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazordoon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazordoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
