@@ -15,6 +15,6 @@ Sou um estudante de desenvolvimento web que começou os estudos no mundo da tecn
 
 _ _ _
 
-![kazordoon's github stats](https://github-readme-stats.vercel.app/api?username=kazordoon&count_private=true&show_icons=true)
+![kazordoon's github stats](https://github-readme-stats.vercel.app/api?username=kazordoon&count_private=true&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazordoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazordoon&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
