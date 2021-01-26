@@ -8,9 +8,6 @@ Sou um estudante de desenvolvimento web que começou os estudos no mundo da tecn
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-ea2845?style=flat&logoColor=fff&logo=nestjs)&nbsp;
-![AdonisJS](https://img.shields.io/badge/-AdonisJS-220052?style=flat&logoColor=fff&logo=adonisjs)&nbsp;
-![RxJS](https://img.shields.io/badge/-RxJS-db0090?style=flat&logoColor=fff&logo=rxjs)&nbsp;
-![VueJS](https://img.shields.io/badge/-VueJS-41b883?style=flat&logoColor=fff&logo=vuejs)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
 
 _ _ _
