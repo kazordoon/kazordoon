@@ -1,6 +1,8 @@
-### Oi meu chapa
+### Desenvolvedor de Software
 
-Sou um estudante de desenvolvimento web que começou os estudos no mundo da tecnologia no ínicio de 2019, e desde então venho aplicando meu aprendizado na criação de alguns projetos e os disponibilizando em meus repositórios do GitHub.
+Olá, sou um estudante de desenvolvimento de software focado principalmente na web, tendo o **JavaScript** como minha principal linguagem de programação, ainda mais na parte do _back-end_ utilizando **Node.js**.
+
+Venho estudando desde 2019 através de cursos e outros conteúdos na Internet, e desde então venho aplicando meu aprendizado na criação de alguns projetos e os disponibilizando em meus repositórios do GitHub.
 
 #### :computer: Atualmente eu estou estudando as seguintes tecnologias:
 
@@ -8,7 +10,7 @@ Sou um estudante de desenvolvimento web que começou os estudos no mundo da tecn
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-ea2845?style=flat&logoColor=fff&logo=nestjs)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
+![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)&nbsp;
 
 _ _ _
 
