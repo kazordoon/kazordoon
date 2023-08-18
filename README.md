@@ -9,7 +9,7 @@ Venho estudando desde 2019 através de cursos e outros conteúdos na Internet, e
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
-![NestJS](https://img.shields.io/badge/-NestJS-ea2845?style=flat&logoColor=fff&logo=nestjs)&nbsp;
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)&nbsp;
 
 _ _ _
